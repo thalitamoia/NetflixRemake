@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/cover_drawable" android:drawable="@drawable/joke"/>
+
+<item android:id="@+id/gradient">
+    <shape>
+        <gradient android:angle="90"
+            android:centerColor="#00000000"
+            android:endColor="#16000000"
+            android:startColor="#DF000000"/>
+
+
+    </shape>
+
+
+
+</item>
+
+</layer-list>
